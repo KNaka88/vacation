@@ -2,3 +2,20 @@
   max-width: 100%;
   margin-bottom: 1%;
 }
+
+ .panel img {
+  display: block;
+  width: 80%;
+  height: auto;
+  margin: 2% auto;
+  border-radius: 10%;
+}
+
+.jumbotron blockquote {
+  max-width: 98%;
+  margin-left: 3%;
+}
+
+.jumbotron .panel h2 {
+  margin-left: 3%;
+}
